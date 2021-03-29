@@ -1,0 +1,254 @@
+29-Mar-21 04:09:03 - Created log file.q
+29-Mar-21 04:09:03 -  Initialization of classes completed.
+29-Mar-21 04:09:03 - Initializing Azure Face Identification API.
+29-Mar-21 04:09:06 - No change in frames. Waiting for 1 second before checking movement again.
+29-Mar-21 04:09:08 - No change in frames. Waiting for 1 second before checking movement again.
+29-Mar-21 04:09:09 - Movement detected in frame.
+29-Mar-21 04:09:09 - 1 Faces detected in frame. 
+29-Mar-21 04:09:09 - Movement detected in frame.
+29-Mar-21 04:09:09 - 1 Faces detected in frame. 
+29-Mar-21 04:09:09 - Movement detected in frame.
+29-Mar-21 04:09:09 - 1 Faces detected in frame. 
+29-Mar-21 04:09:09 - New Person entered in front of camera.
+29-Mar-21 04:09:09 - Saving the newly entered face image for the confirmation.
+29-Mar-21 04:09:09 - Movement detected in frame.
+29-Mar-21 04:09:09 - 1 Faces detected in frame. 
+29-Mar-21 04:09:09 - Already detected face shown in the frame.
+29-Mar-21 04:09:09 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:10 - Movement detected in frame.
+29-Mar-21 04:09:10 - 1 Faces detected in frame. 
+29-Mar-21 04:09:10 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:11 - 1 Faces detected in frame. 
+29-Mar-21 04:09:11 - Already detected face shown in the frame.
+29-Mar-21 04:09:11 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:12 - Movement detected in frame.
+29-Mar-21 04:09:12 - 1 Faces detected in frame. 
+29-Mar-21 04:09:12 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 1 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 1 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 1 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 1 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 1 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:13 - 0 Faces detected in frame. 
+29-Mar-21 04:09:13 - Already detected face shown in the frame.
+29-Mar-21 04:09:13 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:14 - Movement detected in frame.
+29-Mar-21 04:09:14 - 0 Faces detected in frame. 
+29-Mar-21 04:09:14 - Already detected face shown in the frame.
+29-Mar-21 04:09:15 - No change in frames. Waiting for 1 second before checking movement again.
+29-Mar-21 04:09:16 - Movement detected in frame.
+29-Mar-21 04:09:16 - 1 Faces detected in frame. 
+29-Mar-21 04:09:16 - Already detected face shown in the frame.
+29-Mar-21 04:09:16 - Movement detected in frame.
+29-Mar-21 04:09:16 - 1 Faces detected in frame. 
+29-Mar-21 04:09:16 - Already detected face shown in the frame.
+29-Mar-21 04:09:16 - Movement detected in frame.
+29-Mar-21 04:09:16 - 1 Faces detected in frame. 
+29-Mar-21 04:09:16 - New Person entered in front of camera.
+29-Mar-21 04:09:16 - Saving the newly entered face image for the confirmation.
+29-Mar-21 04:09:16 - Entered Face moved out of visibility of the camera.
+29-Mar-21 04:09:16 - Removed face id from tracking no longer existing in front of camera.
+29-Mar-21 04:09:16 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:17 - 1 Faces detected in frame. 
+29-Mar-21 04:09:17 - Already detected face shown in the frame.
+29-Mar-21 04:09:17 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:18 - Movement detected in frame.
+29-Mar-21 04:09:18 - 1 Faces detected in frame. 
+29-Mar-21 04:09:18 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:19 - Movement detected in frame.
+29-Mar-21 04:09:19 - 1 Faces detected in frame. 
+29-Mar-21 04:09:19 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 0 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 1 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 1 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 1 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 1 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:20 - 1 Faces detected in frame. 
+29-Mar-21 04:09:20 - Already detected face shown in the frame.
+29-Mar-21 04:09:20 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:21 - 1 Faces detected in frame. 
+29-Mar-21 04:09:21 - Already detected face shown in the frame.
+29-Mar-21 04:09:21 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
+29-Mar-21 04:09:22 - Movement detected in frame.
+29-Mar-21 04:09:22 - 1 Faces detected in frame. 
+29-Mar-21 04:09:22 - Already detected face shown in the frame.
